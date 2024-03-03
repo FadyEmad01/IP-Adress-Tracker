@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#head{
+    background: url(../images/pattern-bg-desktop.png);
+    background-size: 100% 100%;
+    /* background-position: center center; */
+    background-repeat: no-repeat;
+}
+.rectangle{
+    background-color: white;
+    border-radius: 14px;
+}
